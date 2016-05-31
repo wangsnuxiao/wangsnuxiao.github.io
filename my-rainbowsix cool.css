@@ -1,0 +1,181 @@
+html {
+background-image:url(https://i.ytimg.com/vi/Isn-eQj3DII/maxresdefault.jpg );
+}
+
+h1 {
+    color:white;
+    font-size:60px;
+    
+}
+
+h2 {
+  color:white;
+  text-decoration:none;
+
+}
+h3 {
+  color:white;
+}
+strong {
+  color:gold;
+  font-size:28px;
+}
+
+a {
+  background-color: rgb(124, 252, 0);
+  background-image: -webkit-linear-gradient(rgb(255, 195, 68), rgb(255, 195, 68));
+  background-image: -moz-linear-gradient(rgb(255, 195, 68),rgb(255, 195, 68));
+  background-image: -o-linear-gradient(rgb(255, 195, 68),rgb(255, 195, 68));
+  background-image: linear-gradient(rgb(65, 242, 243), rgb(255, 195, 68));
+  border:3px solid black;
+  border-radius:4px;
+  box-shadow: 0 1px 1px rgb(144, 238, 144), inset 0 1px 0 rgb(240, 255, 240);
+  color: rgb(255, 255, 255);
+  display: block;
+  font-size: 20px;
+  margin: 10px auto;
+  padding: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 rgb(255, 255, 255);
+  width: 170px;
+  height:12px;
+  text-align:left;
+}
+
+a:hover {
+   background-color: rgb(124, 252, 0);
+  background-image: -webkit-linear-gradient(rgb(255, 195, 68), rgb(255, 195, 68));
+  background-image: -moz-linear-gradient(rgb(255, 195, 68),rgb(255, 195, 68));
+  background-image: -o-linear-gradient(rgb(255, 195, 68),rgb(255, 195, 68));
+  background-image: linear-gradient(rgb(255, 195, 68), rgb(255, 195, 68));
+
+  border: 3px solid black;
+  border-radius:4px;
+  box-shadow: 0 1px 1px gold, inset 0 1px 0 gold;
+  color: rgb(255, 255, 255);
+  display: block;
+  font-size: 20px;
+  margin: 10px auto;
+  padding: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: 0 1px 0 gold
+  width: 170px;
+  height:12px;
+  text-align:left;
+}
+
+
+
+header {
+  position: absolute;
+  left: 5%;
+}
+
+
+#yes18 a {
+  position: absolute;
+  left:50%;
+  top:50%;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+#18{
+  position:absolute;
+  left:40%;
+  top:35%;
+}
+#black-boxes{
+  display:block;
+  background-color:rgba(0, 0, 0, 0.5);
+  width:400px;
+  position:absolute;
+  left:400px;
+}
+#black-boxes2{
+  display:block;
+  background-color:rgba(0, 0, 0, 0.5);
+  width:400px;
+  position:absolute;
+  left:950px;
+}
+#black-boxes3{
+  display:block;
+  background-color:rgba(0, 0, 0, 0.5);
+  width:400px;
+  position:absolute;
+  left:450px;
+  bottom:200px;
+}
+#black-boxes4{
+  display:block;
+  background-color:rgba(0, 0, 0, 0.5);
+  width:400px;
+  position:absolute;
+  left:950px;
+  bottom:200px;
+}
+footer {
+  position:absolute;
+  bottom:0px;
+  background-color:white;
+  border:2px solid;
+  opacity:0.7;
+}
+#video1{
+ position:absolute;
+ left:30%;
+ top:70%;
+}
+#game{
+  position:absolute;
+ left:480px;
+ top:170px;
+}
+
+
+
+#page {
+   background-color: rgb(124, 252, 0);
+  background-image: -webkit-linear-gradient(rgb(255, 195, 68), rgb(255, 195, 68));
+  background-image: -moz-linear-gradient(rgb(255, 195, 68),rgb(255, 195, 68));
+  background-image: -o-linear-gradient(rgb(255, 195, 68),rgb(255, 195, 68));
+  background-image: linear-gradient(rgb(255, 195, 68), rgb(255, 195, 68));
+
+  border: 3px solid black;
+  border-radius:4px;
+  box-shadow: 0 1px 1px gold, inset 0 1px 0 gold;
+  color: rgb(255, 255, 255);
+  display: block;
+  font-size: 20px;
+  margin: 10px auto;
+  padding: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: 0 1px 0 gold
+  width: 170px;
+  height:12px;
+  text-align:left;
+}
+
+}
+
+
+
+
+
+
+
+
