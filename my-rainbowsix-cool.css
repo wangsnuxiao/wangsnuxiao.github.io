@@ -1,5 +1,6 @@
 html {
 background-image:url(https://i.ytimg.com/vi/Isn-eQj3DII/maxresdefault.jpg );
+background-color: red;
 }
 
 h1 {
@@ -89,11 +90,12 @@ header {
 }
 
 
-#18{
+#test18 {
   position:absolute;
   left:40%;
   top:35%;
 }
+
 #black-boxes{
   display:block;
   background-color:rgba(0, 0, 0, 0.5);
@@ -135,6 +137,19 @@ footer {
  position:absolute;
  left:30%;
  top:70%;
+}
+#provideo1{
+  position:absolute;
+  left:400px;
+}
+#provideo2{
+  position:absolute;
+  left:400px;
+  top:600px;
+}
+#provideo3{
+  position:absolute;
+  left:1090px;
 }
 #game{
  position:absolute;
@@ -190,7 +205,6 @@ transition: all 0.3s;
 }
 
 th {
-background: white;   
 font-weight: bold;
 }
 
@@ -213,7 +227,9 @@ tr td:hover { background: #666; color: #FFF; } /* Hover cell effect! */
 @import "compass/css3";
 
 body {
-    background-color: white;
+  /*
+  background-color: white;
+  */
 }
 
 .error404page {
